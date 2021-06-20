@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1624212889145,
-  "index": "/ng-agenda/index.html",
+  "timestamp": 1624215002867,
+  "index": "agenda-app/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ng-agenda/favicon.ico",
-        "/ng-agenda/index.html",
-        "/ng-agenda/main.cea5692e427057705c19.js",
-        "/ng-agenda/manifest.webmanifest",
-        "/ng-agenda/polyfills.94daefd414b8355106ab.js",
-        "/ng-agenda/runtime.7b63b9fd40098a2e8207.js",
-        "/ng-agenda/styles.b941c51f2c78faaed70e.css"
+        "agenda-app/favicon.ico",
+        "agenda-app/index.html",
+        "agenda-app/main.38c16df1d7ab94f7aaa3.js",
+        "agenda-app/manifest.webmanifest",
+        "agenda-app/polyfills.94daefd414b8355106ab.js",
+        "agenda-app/runtime.7b63b9fd40098a2e8207.js",
+        "agenda-app/styles.b941c51f2c78faaed70e.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ng-agenda/assets/bg_hero.png",
-        "/ng-agenda/assets/icons/icon-128x128.png",
-        "/ng-agenda/assets/icons/icon-144x144.png",
-        "/ng-agenda/assets/icons/icon-152x152.png",
-        "/ng-agenda/assets/icons/icon-192x192.png",
-        "/ng-agenda/assets/icons/icon-384x384.png",
-        "/ng-agenda/assets/icons/icon-512x512.png",
-        "/ng-agenda/assets/icons/icon-72x72.png",
-        "/ng-agenda/assets/icons/icon-96x96.png",
-        "/ng-agenda/bg_hero.cd92fbbc4cac49fcf7ac.png"
+        "agenda-app/assets/bg_hero.png",
+        "agenda-app/assets/icons/icon-128x128.png",
+        "agenda-app/assets/icons/icon-144x144.png",
+        "agenda-app/assets/icons/icon-152x152.png",
+        "agenda-app/assets/icons/icon-192x192.png",
+        "agenda-app/assets/icons/icon-384x384.png",
+        "agenda-app/assets/icons/icon-512x512.png",
+        "agenda-app/assets/icons/icon-72x72.png",
+        "agenda-app/assets/icons/icon-96x96.png",
+        "agenda-app/bg_hero.cd92fbbc4cac49fcf7ac.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ng-agenda/assets/bg_hero.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
-    "/ng-agenda/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/ng-agenda/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/ng-agenda/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/ng-agenda/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/ng-agenda/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/ng-agenda/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/ng-agenda/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/ng-agenda/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/ng-agenda/bg_hero.cd92fbbc4cac49fcf7ac.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
-    "/ng-agenda/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ng-agenda/index.html": "8192780efab3630f7ce69ffdc52d5c13bc0237b9",
-    "/ng-agenda/main.cea5692e427057705c19.js": "9c0ccb21deff511ed6024001bd6691cf9963ed49",
-    "/ng-agenda/manifest.webmanifest": "ab740d55c85406d4fade243f02f9909db8abdf06",
-    "/ng-agenda/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/ng-agenda/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/ng-agenda/styles.b941c51f2c78faaed70e.css": "0e84ad6a13f974663de413b5407f76e80fe1d51a"
+    "agenda-app/assets/bg_hero.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
+    "agenda-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "agenda-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "agenda-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "agenda-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "agenda-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "agenda-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "agenda-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "agenda-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "agenda-app/bg_hero.cd92fbbc4cac49fcf7ac.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
+    "agenda-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "agenda-app/index.html": "12b1afbcc67caeadfa29d2c63f753cd04b519682",
+    "agenda-app/main.38c16df1d7ab94f7aaa3.js": "a6d2437643f76d36b4811063d98626bdd4e751c4",
+    "agenda-app/manifest.webmanifest": "ab740d55c85406d4fade243f02f9909db8abdf06",
+    "agenda-app/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "agenda-app/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "agenda-app/styles.b941c51f2c78faaed70e.css": "0e84ad6a13f974663de413b5407f76e80fe1d51a"
   },
   "navigationUrls": [
     {
