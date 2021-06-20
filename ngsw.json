@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624228948490,
+  "timestamp": 1624229883914,
   "index": "agenda-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "agenda-app/favicon.ico",
         "agenda-app/index.html",
-        "agenda-app/main.38c16df1d7ab94f7aaa3.js",
+        "agenda-app/main.a2ea5de680e9f6b94870.js",
         "agenda-app/manifest.webmanifest",
         "agenda-app/polyfills.94daefd414b8355106ab.js",
         "agenda-app/runtime.7b63b9fd40098a2e8207.js",
@@ -56,8 +56,8 @@
     "agenda-app/assets/icons/icon-96x96.png": "50406319dec2e409928e84f9b4724908a7c16378",
     "agenda-app/bg_hero.cd92fbbc4cac49fcf7ac.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
     "agenda-app/favicon.ico": "590080c8f6c61777323735e1622760af83788eeb",
-    "agenda-app/index.html": "629ebf6c997cd94db14c5aa533f2da03763a24de",
-    "agenda-app/main.38c16df1d7ab94f7aaa3.js": "a6d2437643f76d36b4811063d98626bdd4e751c4",
+    "agenda-app/index.html": "81a79269d1fd371831c880b7ed91a6e11d75bf17",
+    "agenda-app/main.a2ea5de680e9f6b94870.js": "ca7b82b3e96a4908d184355ac5c859d4b0e3b58e",
     "agenda-app/manifest.webmanifest": "ab740d55c85406d4fade243f02f9909db8abdf06",
     "agenda-app/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "agenda-app/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
