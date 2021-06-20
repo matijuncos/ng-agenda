@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624230228264,
+  "timestamp": 1624230353410,
   "index": "agenda-app/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
     "agenda-app/favicon.ico": "590080c8f6c61777323735e1622760af83788eeb",
     "agenda-app/index.html": "81a79269d1fd371831c880b7ed91a6e11d75bf17",
     "agenda-app/main.a2ea5de680e9f6b94870.js": "ca7b82b3e96a4908d184355ac5c859d4b0e3b58e",
-    "agenda-app/manifest.webmanifest": "ab740d55c85406d4fade243f02f9909db8abdf06",
+    "agenda-app/manifest.webmanifest": "8240d0b87199a4eea736df7702f276a5c294c4e0",
     "agenda-app/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "agenda-app/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "agenda-app/styles.b941c51f2c78faaed70e.css": "0e84ad6a13f974663de413b5407f76e80fe1d51a"

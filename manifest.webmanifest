@@ -1,8 +1,8 @@
 {
-  "name": "agendaApp",
-  "short_name": "agendaApp",
+  "name": "Sopita",
+  "short_name": "Este es el nombre largo",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#FD5000",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
