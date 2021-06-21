@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1624235536524,
-  "index": "/index.html",
+  "timestamp": 1624235738411,
+  "index": "ng-agenda/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.a2ea5de680e9f6b94870.js",
-        "/manifest.webmanifest",
-        "/polyfills.94daefd414b8355106ab.js",
-        "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.b941c51f2c78faaed70e.css"
+        "ng-agenda/favicon.ico",
+        "ng-agenda/index.html",
+        "ng-agenda/main.a2ea5de680e9f6b94870.js",
+        "ng-agenda/manifest.webmanifest",
+        "ng-agenda/polyfills.94daefd414b8355106ab.js",
+        "ng-agenda/runtime.7b63b9fd40098a2e8207.js",
+        "ng-agenda/styles.b941c51f2c78faaed70e.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/bg_hero.png",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/bg_hero.cd92fbbc4cac49fcf7ac.png"
+        "ng-agenda/assets/bg_hero.png",
+        "ng-agenda/assets/icons/icon-128x128.png",
+        "ng-agenda/assets/icons/icon-144x144.png",
+        "ng-agenda/assets/icons/icon-152x152.png",
+        "ng-agenda/assets/icons/icon-192x192.png",
+        "ng-agenda/assets/icons/icon-384x384.png",
+        "ng-agenda/assets/icons/icon-512x512.png",
+        "ng-agenda/assets/icons/icon-72x72.png",
+        "ng-agenda/assets/icons/icon-96x96.png",
+        "ng-agenda/bg_hero.cd92fbbc4cac49fcf7ac.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/bg_hero.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
-    "/assets/icons/icon-128x128.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-144x144.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-152x152.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-192x192.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-384x384.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-512x512.png": "5ac92b85a5ff09027618cf7673b8eb34874eca54",
-    "/assets/icons/icon-72x72.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/assets/icons/icon-96x96.png": "50406319dec2e409928e84f9b4724908a7c16378",
-    "/bg_hero.cd92fbbc4cac49fcf7ac.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
-    "/favicon.ico": "590080c8f6c61777323735e1622760af83788eeb",
-    "/index.html": "5701d5c69892ec958cfeffa25df0ffdf693df1eb",
-    "/main.a2ea5de680e9f6b94870.js": "ca7b82b3e96a4908d184355ac5c859d4b0e3b58e",
-    "/manifest.webmanifest": "8240d0b87199a4eea736df7702f276a5c294c4e0",
-    "/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.b941c51f2c78faaed70e.css": "0e84ad6a13f974663de413b5407f76e80fe1d51a"
+    "ng-agenda/assets/bg_hero.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
+    "ng-agenda/assets/icons/icon-128x128.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-144x144.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-152x152.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-192x192.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-384x384.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-512x512.png": "5ac92b85a5ff09027618cf7673b8eb34874eca54",
+    "ng-agenda/assets/icons/icon-72x72.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/assets/icons/icon-96x96.png": "50406319dec2e409928e84f9b4724908a7c16378",
+    "ng-agenda/bg_hero.cd92fbbc4cac49fcf7ac.png": "21c2d3f250b30cb72e56e35cc00eed10308a760a",
+    "ng-agenda/favicon.ico": "590080c8f6c61777323735e1622760af83788eeb",
+    "ng-agenda/index.html": "d255411639bbddd778b2420f593295257f5672fa",
+    "ng-agenda/main.a2ea5de680e9f6b94870.js": "ca7b82b3e96a4908d184355ac5c859d4b0e3b58e",
+    "ng-agenda/manifest.webmanifest": "8240d0b87199a4eea736df7702f276a5c294c4e0",
+    "ng-agenda/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "ng-agenda/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "ng-agenda/styles.b941c51f2c78faaed70e.css": "0e84ad6a13f974663de413b5407f76e80fe1d51a"
   },
   "navigationUrls": [
     {
